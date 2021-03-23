@@ -28,7 +28,7 @@ import hashlib
 DEFAULT_RESOLUTION = Vector2(1920, 1080)
 
 # CHEATS AND DEBUGGING #
-ALL_KEYS = True
+ALL_KEYS = False
 DEBUGGING = False
 
 num_to_text = {
